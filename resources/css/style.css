@@ -115,8 +115,9 @@ header .mobile {
 #sign-up-section {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   height: 43.5rem;
+  background-image: url("../images/banner-landingpage.jpg");
 }
 
 #sign-up-cta {
@@ -124,6 +125,7 @@ header .mobile {
   border: solid 1px #979797;
   border-radius: 4px;
   background-color: #9dc20b;
+  margin-left: 100px;
 }
 
 #sign-up-cta .content {
